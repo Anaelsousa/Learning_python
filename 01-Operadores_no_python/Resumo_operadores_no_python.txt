@@ -1,0 +1,28 @@
+no Python
+Operadores no Python
+Operadores aritméticos
+Operadores relacionais (ou de comparação)
+Operadores lógicos (booleanos) 
+
+Operadores no Python
+
+Operadores aritméticos
+Soma: 2 + 2 = 4 
+Subtração: 2 - 1 = 1
+Multiplicação: 2 * 3 = 6
+Divisão: 3 / 2 = 1.5 (resultado é sempre um float)
+Exponenciação: 2 ** 3 = 8 (equivalente a 2 * 2 * 2 )
+Divisão inteira: 3 // 2 = 1 (remove a parte decimal - depois do . , resultado é sempre um int)  Módulo (resto da divisão): 4 % 2 = 0 e 5 % 2 = 1
+
+Operadores relacionais (ou de comparação)
+Igualdade: 10 == 10 → True
+Diferença: 10 != 10 → False
+Maior: 10 > 5 → True
+Maior ou igual: 5 >= 5 → True
+Menor: 5 < 5 → False
+Menor ou igual: 5 <= 5 → True
+
+Operadores lógicos (booleanos)
+E-lógico (and): (5 == 10) and (5 < 10) → False
+Ou-lógico (or):  (5 == 10) or (5 < 10) → True
+Não-lógico (not): not ((5 == 10) or (5 < 10)) → False
