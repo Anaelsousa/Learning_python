@@ -1,0 +1,19 @@
+1. Escreva uma função que recebe um número inteiro positivo e retorna
+True caso ele seja primo e False , caso contrário
+Sugestão:
+def e_primo(n):
+# Sua implementação aqui
+print(e_primo(1)) 
+# False 
+print(e_primo(2)) # True
+
+2. Uma função fatorial calcula o valor da multiplicação de um certo número 
+inteiro não-negativo por todos os números positivos menores que ele. A exceção é 
+o fatorial de zero que é igual a 1. Por exemplo:
+fatorial(3) = 3 * 2 * 1 = 6 
+fatorial(1) = 1 
+fatorial(0) = 1
+Ou seja, podemos definir a função fatorial como:
+fatorial(n) = n * n-1 * n-2 * ... * 1
+Implemente a função
+fatorial(n) de modo que ela retorne o valor do fatorial de n.
