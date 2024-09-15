@@ -1,0 +1,8 @@
+Intrudução a classes:
+https://www.alura.com.br/apostila-python-orientacao-a-objetos/orientacao-a-objetos
+
+Atributos de classe, métodos de classe e métodos estáticos:
+https://www.alura.com.br/apostila-python-orientacao-a-objetos/encapsulamento
+
+Herança:
+https://www.alura.com.br/apostila-python-orientacao-a-objetos/heranca-e-classes-abstratas
